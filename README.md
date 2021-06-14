@@ -1,1 +1,1 @@
-Moved to https://github.com/xcgc/yolks
+## Pterodactyl Docker images ARM64/AMD64

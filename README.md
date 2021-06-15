@@ -1,4 +1,4 @@
-## Pterodactyl Docker images ARM64/AMD64
+## Pterodactyl Docker images ARM64
 
 # Images
 

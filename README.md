@@ -1,3 +1,9 @@
+## ARCHIVED NOT MAINTAINED
+Why?
+- Old
+- Not updated
+- There are enough multiarch docker images
+
 ## Pterodactyl Docker images ARM64
 
 # Images
